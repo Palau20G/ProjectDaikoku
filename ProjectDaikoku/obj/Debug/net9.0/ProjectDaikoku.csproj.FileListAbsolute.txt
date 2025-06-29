@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\ProjectDaikoku.exe
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\ProjectDaikoku.deps.json
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\ProjectDaikoku.runtimeconfig.json
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\ProjectDaikoku.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\ProjectDaikoku.pdb
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.sourcelink.json
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\refint\ProjectDaikoku.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.pdb
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.genruntimeconfig.cache
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ref\ProjectDaikoku.dll
