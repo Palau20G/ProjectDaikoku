@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Figgle" Version="0.6.5" />
+    <PackageReference Include="Figgle.Fonts" Version="0.6.5" />
+    <PackageReference Include="Figgle.Generator" Version="0.6.5" />
+    <PackageReference Include="keystoneengine.csharp" Version="0.9.1.1" />
+  </ItemGroup>
+
 </Project>

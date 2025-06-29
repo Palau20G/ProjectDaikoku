@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectDaikoku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c3efbf32eaf6bfdea3201f70ca89cf01bd7081")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b61ee6c48c7fe82c7c710970823b128b7bff55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectDaikoku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectDaikoku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,10 @@ C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\refint
 C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.pdb
 C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.genruntimeconfig.cache
 C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ref\ProjectDaikoku.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectDaikoku.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\Figgle.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\Figgle.Fonts.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\obj\Debug\net9.0\ProjectD.19D02939.Up2Date
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\x64\keystone.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\x86\keystone.dll
+C:\Users\User\source\repos\ProjectDaikoku\ProjectDaikoku\bin\Debug\net9.0\Keystone.Net.dll

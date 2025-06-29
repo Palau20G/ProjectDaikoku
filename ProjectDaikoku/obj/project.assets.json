@@ -1,11 +1,135 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Figgle/0.6.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Figgle.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Figgle.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Figgle.Fonts/0.6.5": {
+        "type": "package",
+        "dependencies": {
+          "Figgle": "0.6.5"
+        },
+        "compile": {
+          "lib/netstandard2.0/Figgle.Fonts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Figgle.Fonts.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Figgle.Generator/0.6.5": {
+        "type": "package",
+        "build": {
+          "build/Figgle.Generator.props": {}
+        }
+      },
+      "keystoneengine.csharp/0.9.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Keystone.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Keystone.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/keystoneengine.csharp.targets": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Figgle/0.6.5": {
+      "sha512": "8Z1qvgyDFvqeQB+b/qpp083N5O/1UNEVKpI2TsWD+tM7Ev388VccPysMxre6jeAy7h4m6L6LrguPGmnOh8+ZGA==",
+      "type": "package",
+      "path": "figgle/0.6.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "figgle.0.6.5.nupkg.sha512",
+        "figgle.nuspec",
+        "lib/netstandard2.0/Figgle.dll",
+        "lib/netstandard2.0/Figgle.xml",
+        "logo-square-256px.png"
+      ]
+    },
+    "Figgle.Fonts/0.6.5": {
+      "sha512": "AFGGUXBF/u44qOww7Zyro0pwhuq7uuZA68N/y1z6GHd+CRj6pWpGHMc7/+XyjZwgJFi3as4diEG/EULOmQAkPQ==",
+      "type": "package",
+      "path": "figgle.fonts/0.6.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "figgle.fonts.0.6.5.nupkg.sha512",
+        "figgle.fonts.nuspec",
+        "lib/netstandard2.0/Figgle.Fonts.dll",
+        "lib/netstandard2.0/Figgle.Fonts.xml",
+        "logo-square-256px.png"
+      ]
+    },
+    "Figgle.Generator/0.6.5": {
+      "sha512": "yXe/l2YY41hXD/ofLEU3HmsacDq9d8iBW8q8uvAisVFBz+kcq3WbU5Nk2KKQqrHKnPPzea1xEZZIqWesawAIqA==",
+      "type": "package",
+      "path": "figgle.generator/0.6.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "analyzers/dotnet/cs/Figgle.Fonts.dll",
+        "analyzers/dotnet/cs/Figgle.Fonts.pdb",
+        "analyzers/dotnet/cs/Figgle.Generator.dll",
+        "analyzers/dotnet/cs/Figgle.Generator.pdb",
+        "analyzers/dotnet/cs/Figgle.dll",
+        "analyzers/dotnet/cs/Figgle.pdb",
+        "build/Figgle.Generator.props",
+        "figgle.generator.0.6.5.nupkg.sha512",
+        "figgle.generator.nuspec",
+        "logo-square-256px.png"
+      ]
+    },
+    "keystoneengine.csharp/0.9.1.1": {
+      "sha512": "zDGl3WRslq4J/T/4gaDw8lv//DSnZQQpBwAFnQ1n6wljPW6DX8wB5dsZNAY1aBPXI34xt7IATNFr7xI6zP9LrQ==",
+      "type": "package",
+      "path": "keystoneengine.csharp/0.9.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/keystoneengine.csharp.targets",
+        "build/x64/keystone.dll",
+        "build/x86/keystone.dll",
+        "keystoneengine.csharp.0.9.1.1.nupkg.sha512",
+        "keystoneengine.csharp.nuspec",
+        "lib/netstandard2.0/Keystone.Net.dll",
+        "lib/netstandard2.0/Keystone.Net.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Figgle >= 0.6.5",
+      "Figgle.Fonts >= 0.6.5",
+      "Figgle.Generator >= 0.6.5",
+      "keystoneengine.csharp >= 0.9.1.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {},
@@ -56,6 +180,24 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Figgle": {
+            "target": "Package",
+            "version": "[0.6.5, )"
+          },
+          "Figgle.Fonts": {
+            "target": "Package",
+            "version": "[0.6.5, )"
+          },
+          "Figgle.Generator": {
+            "target": "Package",
+            "version": "[0.6.5, )"
+          },
+          "keystoneengine.csharp": {
+            "target": "Package",
+            "version": "[0.9.1.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

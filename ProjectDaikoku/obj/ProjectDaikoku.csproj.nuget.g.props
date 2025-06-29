@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\User\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)figgle.generator\0.6.5\build\Figgle.Generator.props" Condition="Exists('$(NuGetPackageRoot)figgle.generator\0.6.5\build\Figgle.Generator.props')" />
+  </ImportGroup>
 </Project>

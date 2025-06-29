@@ -1,11 +1,16 @@
-namespace ProjectDaikoku.Intefaces
+namespace ProjectDaikoku.Interfaces
 {
-    public class ICommand
+    public interface ICommand
     {
         string Name { get; }
-        string Description { get; }
-        string Execute(string[] args);
 
-        string Help();
+        string Description { get; }
+
+        string Execute(string[] args); // For Sync Usage
+
+        Task<string> ExecuteAsync(string[] args); // For Async Usage
+
+        string Help(); // Optional help/usage string
+        
     }
 }
