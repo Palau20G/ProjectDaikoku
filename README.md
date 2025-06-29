@@ -43,7 +43,7 @@ ProjectDaikoku/
 
 | Module         | Description                            | Status   |
 |----------------|----------------------------------------|----------|
-| 🔁 ReverseShell  | TCP-based reverse shell for command execution | ✅ Complete |
+| 🔁 ReverseShell  | TCP-based reverse shell for command execution | 🔄 In Dev|
 | 🖥️ Keylogger     | Simulated keylogger (for research only)       | 🔄 In Dev  |
 | 🧠 Persistence   | Adds registry startup keys                 | 🔄 In Dev  |
 | 🌐 HTTP C2       | Polling C2 via HTTP requests              | 🧪 Experimental |
@@ -73,3 +73,33 @@ ProjectDaikoku/
 git clone https://github.com/youruser/project-daikoku.git
 cd project-daikoku
 dotnet build
+
+Run only inside isolated VMs. Never test on a live machine.
+
+🎓 For Self study Use
+The project includes:
+
+📝 Module design notes
+
+📊 Behavior logs (sandbox output, screenshots)
+
+📖 Documented case studies for each module
+
+📁 Safe test samples and simulation logic
+
+🚨 Do not use this code for illegal or unauthorized purposes.
+
+🤝 Acknowledgments
+"Practical Malware Analysis" by Sikorski & Honig
+
+Malware Unicorn's RE 101
+
+The open-source infosec community
+
+All the defenders out there fighting the good fight
+
+### 🖕 BIG FUCKING DISCLAIMER
+## I will not be held responsible if you use this sht for illegal purposes. I did this for self learning, no other than that.
+
+
+<p align="center"> <i>May Daikoku bring fortune to your research — and reveal the shadows within the system.</i><br> 🏮🧠💻 </p> """
