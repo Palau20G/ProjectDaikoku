@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\ProjectDaikoku\bin\Debug\ProjectDaikoku.exe.config
-C:\Users\User\source\repos\ProjectDaikoku\bin\Debug\ProjectDaikoku.exe
-C:\Users\User\source\repos\ProjectDaikoku\bin\Debug\ProjectDaikoku.pdb
-C:\Users\User\source\repos\ProjectDaikoku\obj\Debug\ProjectDaikoku.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\ProjectDaikoku\obj\Debug\ProjectDaikoku.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\ProjectDaikoku\obj\Debug\ProjectDaikoku.exe
-C:\Users\User\source\repos\ProjectDaikoku\obj\Debug\ProjectDaikoku.pdb
